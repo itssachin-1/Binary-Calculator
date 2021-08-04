@@ -1,0 +1,44 @@
+body {
+  width: 33%;
+  background-color: rgba(240, 238, 238, 0.884);
+}
+#res {
+  background-color: rgba(152, 188, 197, 0.678);
+  border: solid black;
+  height: 56px;
+  width: 98.7%;
+  font-size: 20px;
+  color: rgb(39, 163, 163);
+}
+/* #calc {
+  padding: 18% 3% 2% 3%;
+  background-color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: rgba(233, 236, 236, 0.959);
+} */
+#btn0,
+#btn1 {
+  color: brown;
+  background-color: lightgreen;
+}
+#btnClr,
+#btnEql {
+  color: white;
+  background-color: darkgreen;
+}
+#btnSum,
+#btnSub,
+#btnMul,
+#btnDiv {
+  color: red;
+  background-color: black;
+}
+.b {
+  width: 25%;
+  height: 36px;
+  font-size: 18px;
+  margin: 0px;
+  float: left;
+}
